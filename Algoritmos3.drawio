@@ -1,0 +1,90 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" version="24.7.5">
+  <diagram name="Página-1" id="ay4Cx-v83UfZgDxJYS_3">
+    <mxGraphModel dx="954" dy="560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cATaYVZB-3lbNHOuVYz9-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cATaYVZB-3lbNHOuVYz9-1" target="cATaYVZB-3lbNHOuVYz9-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cATaYVZB-3lbNHOuVYz9-1" value="Inicio" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="360" y="80" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cATaYVZB-3lbNHOuVYz9-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cATaYVZB-3lbNHOuVYz9-2" target="cATaYVZB-3lbNHOuVYz9-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cATaYVZB-3lbNHOuVYz9-2" value="Mostrar mensaje:&amp;nbsp;&lt;div&gt;&quot;Por favor, ingrese la&amp;nbsp;&lt;div&gt;edad del cliente: &quot;&lt;/div&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="210" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cATaYVZB-3lbNHOuVYz9-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cATaYVZB-3lbNHOuVYz9-3" target="cATaYVZB-3lbNHOuVYz9-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cATaYVZB-3lbNHOuVYz9-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cATaYVZB-3lbNHOuVYz9-3" target="cATaYVZB-3lbNHOuVYz9-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cATaYVZB-3lbNHOuVYz9-3" value="Si edad &amp;gt;= 18&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="355" y="340" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="cATaYVZB-3lbNHOuVYz9-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.564;exitY=0.967;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="cATaYVZB-3lbNHOuVYz9-4" target="cATaYVZB-3lbNHOuVYz9-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="430" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="670" y="413" />
+              <mxPoint x="670" y="440" />
+              <mxPoint x="640" y="440" />
+              <mxPoint x="640" y="640" />
+              <mxPoint x="400" y="640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cATaYVZB-3lbNHOuVYz9-4" value="&lt;div&gt;Asignarle a la variable permitido que sea verdadero&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="610" y="355" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cATaYVZB-3lbNHOuVYz9-5" value="SI" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="355" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cATaYVZB-3lbNHOuVYz9-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cATaYVZB-3lbNHOuVYz9-6" target="cATaYVZB-3lbNHOuVYz9-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cATaYVZB-3lbNHOuVYz9-6" value="asignarle a la variable permitido que sea falso" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cATaYVZB-3lbNHOuVYz9-7" value="NO" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="460" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cATaYVZB-3lbNHOuVYz9-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cATaYVZB-3lbNHOuVYz9-8" target="cATaYVZB-3lbNHOuVYz9-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590" y="720" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="610" y="720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cATaYVZB-3lbNHOuVYz9-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cATaYVZB-3lbNHOuVYz9-8" target="cATaYVZB-3lbNHOuVYz9-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cATaYVZB-3lbNHOuVYz9-8" value="Esta&amp;nbsp;&amp;nbsp;&lt;div&gt;permitido el ingreso segun edad&lt;span style=&quot;background-color: initial;&quot;&gt;?&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="350" y="670" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="cATaYVZB-3lbNHOuVYz9-9" value="&amp;nbsp;Mostrar mensaje: &quot;Puedes ingresar a la discoteca&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="680" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cATaYVZB-3lbNHOuVYz9-10" value="SI" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="690" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cATaYVZB-3lbNHOuVYz9-11" value="NO" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="800" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cATaYVZB-3lbNHOuVYz9-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cATaYVZB-3lbNHOuVYz9-12" target="cATaYVZB-3lbNHOuVYz9-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cATaYVZB-3lbNHOuVYz9-12" value="Mostrar mensaje: &quot;Lo sentimos mucho, no se puede ingresar a la&amp;nbsp;&lt;div&gt;discoteca siendo menor&amp;nbsp;&lt;/div&gt;&lt;div&gt;de edad&quot;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="880" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="cATaYVZB-3lbNHOuVYz9-13" value="Fin" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1030" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
